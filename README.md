@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ghassenjday2001@gmail.com**
 
-- ⚡ Fun fact **I have thinking to start learning AI before now what is programming**
+- ⚡ Fun fact **I have thinking to start learning AI before know what is programming**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

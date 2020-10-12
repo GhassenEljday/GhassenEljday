@@ -31,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
 
 
-### Spotify Playing 🎧
-[<img src="https://images.genius.com/875025f47f9ccb55069d211d6db0c1b7.640x640x1.jpg" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)

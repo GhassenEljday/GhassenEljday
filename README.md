@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@ghassenjday](https://medium.com/@ghassenjday)
 
-- 📫 How to reach me **ghasseneljday@gmail.com**
+- 📫 How to reach me **ghassen.eljday@rbk.tn**
 
 - ⚡ Fun fact **I have thinking to start learning AI before now what is programming**
 

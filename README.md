@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I have thinking to start learning AI before now what is programming**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+<h3 align="center">Connect with me:</h3>
 <a href="https://twitter.com/ghasseneljday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
 <a href="https://fb.com/trax.nit001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="trax.nit001" height="30" width="40" target="_blank"/></a>
 <a href="https://instagram.com/ghasseneljday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
@@ -30,7 +30,7 @@
 <a href="https://brain.js.org/#/" target="_blank"> <img src="https://avatars3.githubusercontent.com/u/23732838?s=280&v=4" width="40" height="40"/> </a>
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
 
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)

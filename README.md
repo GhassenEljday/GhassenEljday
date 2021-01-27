@@ -21,7 +21,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a align="center" href="https://twitter.com/ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
-<a align="center" href="https://fb.com/trax.nit001" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="trax.nit001" height="30" width="40" target="_blank"/></a>
+<a align="center" href="https://fb.com/trax.nit001" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
 <a align="center" href="https://instagram.com/ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
 <a align="center" href="https://medium.com/@ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ghasseneljday" height="30" width="40" target="_blank"/></a>
 </p>

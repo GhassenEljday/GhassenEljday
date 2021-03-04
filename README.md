@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ghassen.eljday@rbk.tn**
 
-- ⚡ Fun fact **I have thinking to start learning AI before now what is programming**
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>

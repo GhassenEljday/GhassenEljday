@@ -36,5 +36,6 @@
  </p>
 
 <p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
+![Ghassen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasseneljday&theme=blue-green)
 
 </details>

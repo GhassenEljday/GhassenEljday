@@ -29,8 +29,3 @@
  </p>
 
 <p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
-
-
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-

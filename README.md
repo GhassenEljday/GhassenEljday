@@ -5,13 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghasseneljday" alt="ghasseneljday" /></a> </p>
 
-- 🔭 I’m currently working on [RBK](https://www.rebootkamp.net/)
+- 🔭 I’m currently working in [RBK Tunisa](https://www.rebootkamp.net/)
 
-- 🌱 I’m currently learning **JavaScript && Python and more else in the future ...**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate **with other content creators**
-
-- 📝 I regulary write articles on [https://medium.com/@ghassenjday](https://medium.com/@ghassenjday)
+- 📝 I write articles in [https://medium.com/@ghassenjday](https://medium.com/@ghassenjday)
 
 - 📫 How to reach me **ghassen.eljday@rbk.tn**
 

@@ -20,11 +20,11 @@
   
 [![Mail Badge](https://img.shields.io/badge/-ghasseneljday-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ghasseneljday@rbk.tn)
 
-![Linkedin Badge](https://img.shields.io/badge/-Ons-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ghasseneljday)
+[![Linkedin Badge](https://img.shields.io/badge/-Ons-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ghasseneljday/) 
 
-[![Mail Badge](https://img.shields.io/badge/-@onssheckler-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ghasseneljday/)
+[![Mail Badge](https://img.shields.io/badge/-@ghasseneljday-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ghasseneljday/)
 
-[![Medium Badge](https://img.shields.io/badge/OnsJannet-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ghasseneljday.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/ghasseneljday-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ghasseneljday.medium.com/)
 
 </p>
 

@@ -17,10 +17,15 @@
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a align="center" href="https://twitter.com/ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
-<a align="center" href="https://fb.com/ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
-<a align="center" href="https://instagram.com/ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ghasseneljday" height="30" width="40" target="_blank"/></a>
-<a align="center" href="https://medium.com/@ghasseneljday" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ghasseneljday" height="30" width="40" target="_blank"/></a>
+  
+[![Mail Badge](https://img.shields.io/badge/-ghasseneljday-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ghasseneljday@rbk.tn)
+
+![Linkedin Badge](https://img.shields.io/badge/-Ons-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ghasseneljday)
+
+[![Mail Badge](https://img.shields.io/badge/-@onssheckler-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ghasseneljday/)
+
+[![Medium Badge](https://img.shields.io/badge/OnsJannet-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ghasseneljday.medium.com/)
+
 </p>
 
 

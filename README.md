@@ -13,6 +13,8 @@
 
 </p>
 
+</div>
+
 - 🔭 I’m currently working in [RBK Tunisa](https://www.rebootkamp.net/)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -21,7 +23,7 @@
 
 - 📫 How to reach me **ghassen.eljday@rbk.tn**
 
-
+<div align="center">
 <details>
 <summary>
   Languages and Tools and More
@@ -38,3 +40,4 @@
   ![Ghassen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasseneljday&theme=blue-green)
 
 </details>
+</div>

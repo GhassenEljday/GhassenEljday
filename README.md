@@ -35,7 +35,7 @@
 <a href="https://brain.js.org/#/" target="_blank"> <img src="https://avatars3.githubusercontent.com/u/23732838?s=280&v=4" width="40" height="40"/> </a>
  </p>
 
-  <p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ghasseneljday&show_icons=true" alt="ghasseneljday" /></p>
+  ![Ons's github stats](https://github-readme-stats.vercel.app/api?username=ghasseneljday&count_private=true&theme=blue-green&hide=contribs,prs)
 
   ![Ghassen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasseneljday&theme=blue-green)
 

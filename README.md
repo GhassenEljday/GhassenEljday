@@ -46,7 +46,7 @@
 
   ![Ons's github stats](https://github-readme-stats.vercel.app/api?username=ghasseneljday&count_private=true&theme=blue-green&hide=contribs,prs)
 
-  ![Ghassen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasseneljday&theme=blue-green)
+  
 
 </details>
 </div>

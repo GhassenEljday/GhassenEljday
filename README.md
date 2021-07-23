@@ -16,13 +16,6 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working in [RBK Tunisa](https://www.rebootkamp.net/)
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 📝 I write articles in [https://medium.com/@ghassenjday](https://medium.com/@ghassenjday)
-
-- 📫 How to reach me **ghassen.eljday@rbk.tn**
 
 <br/>
 

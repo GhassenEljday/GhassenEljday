@@ -54,5 +54,5 @@
 
 ###
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31nn6adlycz27m4bus6tmnhvx4k4)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nn6adlycz27m4bus6tmnhvx4k4&width=300&count=5&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nn6adlycz27m4bus6tmnhvx4k4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nn6adlycz27m4bus6tmnhvx4k4&redirect=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nn6adlycz27m4bus6tmnhvx4k4&width=300&count=6&unique={true|1|on|yes})

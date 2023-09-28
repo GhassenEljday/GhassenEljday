@@ -55,4 +55,4 @@
 ###
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31nn6adlycz27m4bus6tmnhvx4k4)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nn6adlycz27m4bus6tmnhvx4k4&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nn6adlycz27m4bus6tmnhvx4k4&width=300&count=5&unique={true|1|on|yes})

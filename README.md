@@ -4,7 +4,7 @@
 ---
 
 I build clean, modern interfaces with **React**, **TypeScript**, and a designer’s eye for detail.  
-Self-taught, product-driven, and always experimenting with new ideas — from fintech apps to tools, streetwear brands, and even chess platforms for the Tunisian community.
+Self-taught, product-driven, and always experimenting with new ideas from fintech apps to tools, streetwear brands, and even chess platforms for the Tunisian community.
 
 Right now I’m focused on crafting fast, scalable frontends and polished user experiences.
 
@@ -36,9 +36,9 @@ Right now I’m focused on crafting fast, scalable frontends and polished user e
 ---
 
 ## 📌 What I’m Working On
-- **Dinary** — fintech platform for fast, secure money transfers
+- **Dinary** fintech platform for fast, secure money transfers
 - React libraries/tools designed for clean DX & UI consistency
-- Side projects & experiments — always building, always learning
+- Side projects & experiments always building, always learning
 
 ---
 

@@ -1,52 +1,64 @@
-<h2 align="center">Hi 👋! My name is Ghassen Eljday and I'm a</h2>
+<h2 align="center">Hi 👋! I’m Ghassen Eljday</h2>
+<h4 align="center">Frontend Developer & UI/UX Designer</h4>
 
-###
+---
 
-<h4 align="center">Front-end developer and UI designer</h4>
+I build clean, modern interfaces with **React**, **TypeScript**, and a designer’s eye for detail.  
+Self-taught, product-driven, and always experimenting with new ideas — from fintech apps to tools, streetwear brands, and even chess platforms for the Tunisian community.
 
-###
+Right now I’m focused on crafting fast, scalable frontends and polished user experiences.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ghassenEljday" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ghassenEljday" height="150" alt="languages graph"  />
+---
+
+## 🚀 What I Do
+- Build production-ready apps with **React, TypeScript, Vite**
+- Create **pixel-perfect UI** with Tailwind, SCSS, and Figma
+- Architect clean, maintainable front-end structures
+- Work across **fintech**, SaaS, and consumer products
+- Design + code… because why not do both?
+
+---
+
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 </div>
 
-###
+---
 
+## 📌 What I’m Working On
+- **Dinary** — fintech platform for fast, secure money transfers
+- React libraries/tools designed for clean DX & UI consistency
+- Side projects & experiments — always building, always learning
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghassenEljday&show_icons=true&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassenEljday&layout=compact&theme=dracula&hide_border=false" height="150"/>
 </div>
 
-###
+---
 
+## 🌍 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/ghasseneljday" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://dribbble.com/eljday" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
   </a>
   <a href="https://discord.gg/ZmJenDDQK9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nn6adlycz27m4bus6tmnhvx4k4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nn6adlycz27m4bus6tmnhvx4k4&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nn6adlycz27m4bus6tmnhvx4k4&width=300&count=6&unique={true|1|on|yes})
